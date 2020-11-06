@@ -2,9 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-A bunch of randon text
-
-More ipsum
+1. index.html
 
